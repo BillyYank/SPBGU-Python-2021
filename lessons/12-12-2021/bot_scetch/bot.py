@@ -8,9 +8,9 @@ def send_welcome(message):
 	bot.reply_to(message, "Howdy, how are you doing?")
 
 
-@bot.message_handler(func=lambda message: message.text.startswith('Привет'))
+@bot.message_handler(func=lambda message: message.text.startswith('Hi!'))
 def hi_reply(message):
-	bot.reply_to(message, "И тебе привет!")
+	bot.reply_to(message, "Hi! Houdy?")
 
 
 @bot.message_handler(func=lambda message: True)
