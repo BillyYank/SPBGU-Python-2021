@@ -9,7 +9,7 @@ def send_welcome(message):
 	bot.reply_to(message, "Howdy, how are you doing?")
 
 
-@bot.message_handler(commands=['/notify'])
+@bot.message_handler(commands=['notify'])
 def make_notification(message):
 	os.system("python3 make_call.py 'Buy milk' at 2021-12-14 12:00:00")
 	bot.reply_to(message, "Success")
