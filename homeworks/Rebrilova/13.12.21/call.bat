@@ -1,0 +1,1 @@
+python C:\Users\Sofa\Documents\GitHub\SPBGU-Python-2021\homeworks\Rebrilova\13.12.21\phone.py get1
