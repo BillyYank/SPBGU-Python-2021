@@ -1,4 +1,4 @@
-# SPBGU-Python-2021
+﻿# SPBGU-Python-2021
 
 # Философия
 
@@ -59,6 +59,8 @@ https://leetcode.com/ -- задачки для собесов
 
 https://www.youtube.com/playlist?list=PLyHj6yBbnkUgC6T9RpPxEBUv3My9lPd7m -- видео про алгоритмы, с leetcode
 
+
+https://github.com/retentioneering/retentioneering-tools -- клевый аналитический фреймворк по пользовательской аналитике
 
 
 
